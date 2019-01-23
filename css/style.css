@@ -9,7 +9,7 @@
 }
 
 body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Aquawax', sans-serif;
     font-size: 13px;
     font-weight: 400;
     color: #555555;
@@ -1385,7 +1385,7 @@ nav.menu-mobile>ul>li>ul {
 /* Slider Homepage 2 */
 
 .slide-content-2 {
-    font-family: 'Montserrat';
+    font-family: 'Aquawax';
     padding: 0 40px;
     text-transform: uppercase;
     text-align: center;
@@ -1395,7 +1395,7 @@ nav.menu-mobile>ul>li>ul {
 }
 
 .slide-content-2 span.color {
-    font-family: 'Montserrat';
+    font-family: 'Aquawax';
     text-transform: uppercase;
     font-weight: 800;
     color: #e5b624;
@@ -2523,7 +2523,7 @@ a.pro-link:hover {
 }
 
 .client-content blockquote:before {
-    font-family: 'Source Sans Pro';
+    font-family: 'Aquawax';
     font-size: 60px;
     line-height: 0px;
     content: "“";
@@ -2735,7 +2735,7 @@ footer .social {
 /*Slide*/
 
 .slide-title-3 {
-    font-family: "Montserrat";
+    font-family: "Aquawax";
     font-weight: 700;
     line-height: -webkit-calc(60/48);
     line-height: -moz-calc(60/48);
@@ -2748,7 +2748,7 @@ footer .social {
 }
 
 .slide-title-3>span {
-    font-family: "Montserrat";
+    font-family: "Aquawax";
     font-weight: 700;
 }
 
@@ -3108,14 +3108,14 @@ a.sbold {
 /*Slider*/
 
 .slide-title-4-h {
-    font-family: "Montserrat";
+    font-family: "Aquawax";
     color: #e5b624;
     text-transform: uppercase;
     font-weight: 600;
 }
 
 .slide-title-4 {
-    font-family: "Montserrat";
+    font-family: "Aquawax";
     color: #ffffff;
     text-transform: lowercase;
     text-align: center;
@@ -3150,7 +3150,7 @@ a.sbold {
 }
 
 .we-are__right>h2 {
-    font-family: "Montserrat", sans-serif;
+    font-family: "Aquawax", sans-serif;
 }
 
 .we-are__right>h2:first-child {
@@ -3256,7 +3256,7 @@ h2.title--small {
 
 .our-process2__item>h4 {
     color: #efefef;
-    font-family: "Montserrat";
+    font-family: "Aquawax";
     font-weight: 600;
     margin-bottom: 10px;
 }
@@ -3525,7 +3525,7 @@ h2.title--small {
 .header4 nav li a {
     color: #eeeeee;
     text-transform: uppercase;
-    font-family: "Montserrat";
+    font-family: "Aquawax";
     font-weight: 400;
     font-size: 14px;
 }
@@ -3598,7 +3598,7 @@ h2.title--small {
 /* Slider */
 
 .slide-title-5-f {
-    font-family: "Montserrat";
+    font-family: "Aquawax";
     color: #ffffff;
     text-transform: uppercase;
     margin-bottom: 25px;
@@ -4027,26 +4027,26 @@ body.box {
 }
 
 .slide-title-normal {
-    font-family: "Montserrat";
+    font-family: "Aquawax";
     font-weight: 400;
     text-transform: uppercase;
 }
 
 .slide-title-6 {
-    font-family: "Montserrat";
+    font-family: "Aquawax";
     font-weight: 600;
     text-transform: uppercase;
 }
 
 .slide-title-light {
-    font-family: "Montserrat";
+    font-family: "Aquawax";
     font-weight: 300;
     text-transform: uppercase;
 }
 
 .slide-label {
     color: #fff;
-    font-family: "Montserrat";
+    font-family: "Aquawax";
     text-transform: uppercase;
     text-align: center;
     background: #ff8383;
@@ -4132,7 +4132,7 @@ body.box {
 }
 
 .au-collect {
-    font-family: "Montserrat";
+    font-family: "Aquawax";
     font-weight: 300;
     color: #fff;
     top: 15px;
@@ -4140,7 +4140,7 @@ body.box {
 }
 
 .sale-off {
-    font-family: "Montserrat";
+    font-family: "Aquawax";
     font-weight: 300;
     color: #333333;
     top: 15px;
@@ -4148,7 +4148,7 @@ body.box {
 }
 
 .sale-off>span {
-    font-family: "Montserrat";
+    font-family: "Aquawax";
     color: #f1646c;
     font-weight: 400;
     font-size: 18px;

@@ -1,10 +1,10 @@
 /* open-sans-300 - latin */
 @font-face {
-  font-family: 'Open Sans';
+  font-family: 'Aquawax';
   font-style: normal;
   font-weight: 300;
-  src: url('../font/OpenSan/open-sans-v15-latin-300.eot'); /* IE9 Compat Modes */
-  src: local('Open Sans Light'), local('OpenSans-Light'),
+  src: url('../font/Aquawax/Aquawax-Light.eot'); /* IE9 Compat Modes */
+  src: local('Aquawax-Light), local('Aquawax-Light'),
        url('../font/OpenSan/open-sans-v15-latin-300d41d.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
        url('../font/OpenSan/open-sans-v15-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
        url('../font/OpenSan/open-sans-v15-latin-300.woff') format('woff'), /* Modern Browsers */

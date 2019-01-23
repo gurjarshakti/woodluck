@@ -1,0 +1,132 @@
+@font-face {
+    font-family: 'Aquawax';
+    src: url('Aquawax-MediumItalic.eot');
+    src: url('Aquawax-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('Aquawax-MediumItalic.woff2') format('woff2'),
+        url('Aquawax-MediumItalic.woff') format('woff'),
+        url('Aquawax-MediumItalic.svg#Aquawax-MediumItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Aquawax';
+    src: url('Aquawax-Light.eot');
+    src: url('Aquawax-Light.eot?#iefix') format('embedded-opentype'),
+        url('Aquawax-Light.woff2') format('woff2'),
+        url('Aquawax-Light.woff') format('woff'),
+        url('Aquawax-Light.svg#Aquawax-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Aquawax';
+    src: url('Aquawax-DemiBold.eot');
+    src: url('Aquawax-DemiBold.eot?#iefix') format('embedded-opentype'),
+        url('Aquawax-DemiBold.woff2') format('woff2'),
+        url('Aquawax-DemiBold.woff') format('woff'),
+        url('Aquawax-DemiBold.svg#Aquawax-DemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Aquawax Icons';
+    src: url('AquawaxIcons-Medium.eot');
+    src: url('AquawaxIcons-Medium.eot?#iefix') format('embedded-opentype'),
+        url('AquawaxIcons-Medium.woff2') format('woff2'),
+        url('AquawaxIcons-Medium.woff') format('woff'),
+        url('AquawaxIcons-Medium.svg#AquawaxIcons-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Aquawax';
+    src: url('Aquawax-BlackItalic.eot');
+    src: url('Aquawax-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('Aquawax-BlackItalic.woff2') format('woff2'),
+        url('Aquawax-BlackItalic.woff') format('woff'),
+        url('Aquawax-BlackItalic.svg#Aquawax-BlackItalic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Aquawax';
+    src: url('Aquawax-Bold.eot');
+    src: url('Aquawax-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Aquawax-Bold.woff2') format('woff2'),
+        url('Aquawax-Bold.woff') format('woff'),
+        url('Aquawax-Bold.svg#Aquawax-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Aquawax';
+    src: url('Aquawax-BoldItalic.eot');
+    src: url('Aquawax-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Aquawax-BoldItalic.woff2') format('woff2'),
+        url('Aquawax-BoldItalic.woff') format('woff'),
+        url('Aquawax-BoldItalic.svg#Aquawax-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Aquawax';
+    src: url('Aquawax-Black.eot');
+    src: url('Aquawax-Black.eot?#iefix') format('embedded-opentype'),
+        url('Aquawax-Black.woff2') format('woff2'),
+        url('Aquawax-Black.woff') format('woff'),
+        url('Aquawax-Black.svg#Aquawax-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Aquawax';
+    src: url('Aquawax-LightItalic.eot');
+    src: url('Aquawax-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('Aquawax-LightItalic.woff2') format('woff2'),
+        url('Aquawax-LightItalic.woff') format('woff'),
+        url('Aquawax-LightItalic.svg#Aquawax-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Aquawax';
+    src: url('Aquawax.eot');
+    src: url('Aquawax.eot?#iefix') format('embedded-opentype'),
+        url('Aquawax.woff2') format('woff2'),
+        url('Aquawax.woff') format('woff'),
+        url('Aquawax.svg#Aquawax') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Aquawax';
+    src: url('Aquawax-Medium.eot');
+    src: url('Aquawax-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Aquawax-Medium.woff2') format('woff2'),
+        url('Aquawax-Medium.woff') format('woff'),
+        url('Aquawax-Medium.svg#Aquawax-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Aquawax';
+    src: url('Aquawax-Italic.eot');
+    src: url('Aquawax-Italic.eot?#iefix') format('embedded-opentype'),
+        url('Aquawax-Italic.woff2') format('woff2'),
+        url('Aquawax-Italic.woff') format('woff'),
+        url('Aquawax-Italic.svg#Aquawax-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
